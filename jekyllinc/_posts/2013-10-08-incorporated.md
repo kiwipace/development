@@ -1,14 +1,14 @@
 ---
 layout: post
 
-title: Jekyll Incorporated Features
+title: test-post
 subtitle: "What's in the box"
 cover_image: blog-cover.jpg
 
-excerpt: "Incorporated provides a great typography, responsive design, author details, semantic markup and more."
+excerpt: ""
 
 author:
-  name: Karri Saarinen
+  name: anony
   twitter: karrisaarinen
   gplus: 100687498195339762535 
   bio: Co-founder, Design
