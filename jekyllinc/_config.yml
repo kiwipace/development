@@ -1,9 +1,9 @@
 inc:
   # Blog Information
-  title:        "kiwipace llc."
+  title:        "kiwipace"
   subtitle:     "Creative Software Products for faster Data Access"
   cover_image:  blog-cover.jpg
-  logo:         kplogo2.png
+  logo:         logo.png
   
   # Company information
   company:      kiwipace
